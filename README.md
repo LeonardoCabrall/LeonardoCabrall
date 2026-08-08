@@ -29,11 +29,11 @@
 
 ---
 
-## `01 // SOBRE MIM`
+## ` SOBRE MIM`
 
 ```bash
-┌──[cabrall@jarvis]─[~/profile]
-└─$ whoami
+┌──[cabrall - profile
+└─ whoami
 
 > Perfil       : Aprendiz em Desenvolvimento
 > Especialidade: Desenvolvimento de páginas web
@@ -81,7 +81,7 @@ Atualmente estou aprofundando meus conhecimentos no ecossistema **Front-end**, e
 
 <div align="center">
 
-## `03 // DEVELOPMENT TOOLS`
+## ` DEVELOPMENT TOOLS`
 
 <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
@@ -96,7 +96,7 @@ Atualmente estou aprofundando meus conhecimentos no ecossistema **Front-end**, e
 
 ---
 
-## `04 // PROJECT DATABASE`
+## ` PROJECT DATABASE`
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Atualmente estou aprofundando meus conhecimentos no ecossistema **Front-end**, e
 
 ---
 
-## `05 // CURRENT MISSIONS`
+## ` CURRENT MISSIONS`
 
 ```console
 LeonardoCabrall @JARVIS:~$ ./current_objectives.sh
@@ -141,7 +141,7 @@ JARVIS:
 
 <div align="center">
 
-## `06 // GITHUB ANALYTICS`
+## ` GITHUB ANALYTICS`
 
 ### `SYSTEM PERFORMANCE`
 
@@ -161,7 +161,7 @@ JARVIS:
 
 <div align="center">
 
-## `07 // ACTIVITY MONITOR`
+## ` ACTIVITY MONITOR`
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoCabrall&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=JARVIS%20ACTIVITY%20MONITOR" />
 
@@ -171,7 +171,7 @@ JARVIS:
 
 <div align="center">
 
-## `08 // ACHIEVEMENT DATABASE`
+## ` ACHIEVEMENT DATABASE`
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=LeonardoCabrall&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 
@@ -181,7 +181,7 @@ JARVIS:
 
 <div align="center">
 
-## `09 // CONTRIBUTION MATRIX`
+## ` CONTRIBUTION MATRIX`
 
 ```txt
 JARVIS > Analisando histórico de contribuições...
@@ -209,7 +209,7 @@ JARVIS > Snake protocol initialized.
 
 <div align="center">
 
-## `10 // CONNECTION TERMINAL`
+## ` CONNECTION TERMINAL`
 
 ### `ESTABELECER CONEXÃO`
 
