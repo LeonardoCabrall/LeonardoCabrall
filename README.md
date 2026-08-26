@@ -230,16 +230,6 @@ JARVIS > Snake protocol initialized.
 
 <br><br>
 
-```txt
-╔══════════════════════════════════════════════════╗
-║              SECURE CONNECTION READY             ║
-║                                                  ║
-║    GITHUB  •  LINKEDIN  •  INSTAGRAM             ║
-║                                                  ║
-║              STATUS: AVAILABLE                   ║
-╚══════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
