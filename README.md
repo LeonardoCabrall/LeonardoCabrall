@@ -32,7 +32,7 @@
 ## ` SOBRE MIM`
 
 ```bash
-┌──[cabrall - profile
+┌──[profile]
 
  Perfil       : Aprendiz em Desenvolvimento
  Especialidade: Desenvolvimento de páginas web
@@ -48,11 +48,11 @@ Meu objetivo não é apenas escrever código, mas entender como cada tecnologia 
 Atualmente estou aprofundando meus conhecimentos no ecossistema **Front-end**, explorando novas tecnologias e desenvolvendo projetos para evoluir constantemente.
 
 ```txt
-[ KNOWLEDGE DATABASE ]
+[ CONHECIMENTOS ]
 
 ▰▰▰▰▰▰▰  Curiosidade
-▰▰▰▰▰▰  Desenvolvimento Web
-▰▰▰▰▰ Front-end
+▰▰▰▰▰  Desenvolvimento Web
+▰▰▰▰ Front-end
 ▰▰▰▰  Projetos
 ▰▰▰▰▰▰▰▰▰▰  Vontade de evoluir
 ```
