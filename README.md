@@ -103,12 +103,17 @@ Atualmente estou aprofundando meus conhecimentos no ecossistema **Front-end**, e
 
 <br>
 
-<a href="https://github.com/LeonardoCabrall/WebSite-Imobiliaria">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoCabrall&repo=WebSite-Imobiliaria&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/LeonardoCabrall/WebSite-Imobiliaria">
+    <img src="https://img.shields.io/badge/Ver%20projeto-WebSite--Imobiliaria-181717?style=for-the-badge&logo=github" alt="WebSite Imobiliaria">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeonardoCabrall/WebSite-Imobiliaria">
+    github.com/LeonardoCabrall/WebSite-Imobiliaria
+  </a>
+</p>
 
 <a https://github.com/LeonardoCabrall/WebSite-Imobiliaria">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoCabrall&repo=REPO_2&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" />
