@@ -31,7 +31,7 @@
  Sistema       : ONLINE
 ```
 
-Sou um desenvolvedor em evolução, focado na criação de **interfaces modernas, responsivas e bem estruturadas**.
+Me chamo Léo, moro em São Paulo e  atualmente sou um desenvolvedor em evolução, focado na criação de **interfaces modernas, responsivas e bem estruturadas**.
 
 Busco entender as tecnologias que utilizo e aplicá-las na construção de projetos reais, priorizando experiência do usuário, organização e qualidade visual.
 
