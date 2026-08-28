@@ -143,10 +143,10 @@ LeonardoCabrall @JARVIS:~$ ./current_objectives.sh
 [01]  Aprimorar HTML semântico...................[ RUNNING ]
 [02]  Evoluir minhas habilidades com CSS.........[ RUNNING ]
 [03]  Aprofundar conhecimentos em JavaScript.....[ RUNNING ]
-[04]  Criar páginas responsivas...................[ ACTIVE  ]
-[05]  Desenvolver projetos para meu portfólio.....[ ACTIVE  ]
-[06]  Aprender novas tecnologias..................[ ACTIVE  ]
-[07]  Evoluir um pouco todos os dias..............[ ALWAYS  ]
+[04]  Criar páginas responsivas..................[ ACTIVE  ]
+[05]  Desenvolver projetos para meu portfólio....[ ACTIVE  ]
+[06]  Aprender novas tecnologias.................[ ACTIVE  ]
+[07]  Evoluir um pouco todos os dias.............[ ALWAYS  ]
 
 JARVIS:
 > Nenhuma evolução acontece sem execução.
@@ -158,8 +158,6 @@ JARVIS:
 
 ## ` GITHUB ANALYTICS`
 <hr>
-
-<h2 align="center">GITHUB ANALYTICS</h2>
 
 <p align="center">
   <b>Projetos em desenvolvimento web, interfaces responsivas e aplicações modernas.</b>
