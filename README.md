@@ -157,6 +157,19 @@ JARVIS:
 <div align="center">
 
 ## ` GITHUB ANALYTICS`
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=LeonardoCabrall&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCabrall&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ### `SYSTEM PERFORMANCE`
 
