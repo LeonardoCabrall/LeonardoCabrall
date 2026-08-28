@@ -141,15 +141,17 @@ JARVIS:
 
 <div align="center">
 
+<div align="center">
+
 ## `05 // CONTRIBUTION MATRIX`
 
-<text align="center">
- 
-```text
+<pre>
 JARVIS > Analisando histórico de contribuições...
 JARVIS > Matriz carregada.
 JARVIS > Snake protocol initialized.
-```
+</pre>
+
+</div>
 
 <picture>
   <source
