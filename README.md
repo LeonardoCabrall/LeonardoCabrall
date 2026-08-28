@@ -157,18 +157,30 @@ JARVIS:
 <div align="center">
 
 ## ` GITHUB ANALYTICS`
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoCabrall&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats"
-  />
+<hr>
 
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCabrall&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
+<h2 align="center">GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <b>Projetos em desenvolvimento web, interfaces responsivas e aplicações modernas.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeonardoCabrall?tab=repositories">
+    Ver todos os repositórios
+  </a>
+</p>
+
+<hr>
+
+<h2 align="center">STACK</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
 </p>
 
 ### `SYSTEM PERFORMANCE`
