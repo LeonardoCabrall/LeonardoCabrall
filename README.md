@@ -78,7 +78,6 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento Front-end e 
 <br>
 
 ### `VF IMÓVEIS`
-
 Website imobiliário responsivo desenvolvido para apresentação de imóveis e captação de clientes através do WhatsApp.
 
 <br>
@@ -93,10 +92,7 @@ Website imobiliário responsivo desenvolvido para apresentação de imóveis e c
 github.com/LeonardoCabrall/WebSite-Imobiliaria
 </a>
 
-<br><br><br>
-
 ### `BK CONCEPT DETAILING`
-
 Website institucional desenvolvido para uma empresa de estética automotiva, com apresentação de serviços, resultados e contato direto com clientes.
 
 <br>
@@ -104,8 +100,6 @@ Website institucional desenvolvido para uma empresa de estética automotiva, com
 <a href="https://github.com/LeonardoCabrall/WebSite-Estetica-Automotiva">
   <img src="https://img.shields.io/badge/ABRIR%20REPOSITÓRIO-BK%20DETAILING-181717?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
-
-<br><br>
 
 <a href="https://github.com/LeonardoCabrall/WebSite-Estetica-Automotiva">
 github.com/LeonardoCabrall/WebSite-Estetica-Automotiva
