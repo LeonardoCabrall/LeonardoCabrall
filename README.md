@@ -124,13 +124,12 @@ github.com/LeonardoCabrall/WebSite-Estetica-Automotiva
 ## `04 // CURRENT MISSIONS`
 
 ```console
-LeonardoCabrall@JARVIS:~$ ./current_objectives.sh
 
 [01] Aprimorar HTML semântico...................[ RUNNING ]
 [02] Evoluir minhas habilidades com CSS.........[ RUNNING ]
 [03] Aprofundar conhecimentos em JavaScript.....[ RUNNING ]
-[04] Evoluir em React e Next.js..................[ ACTIVE  ]
-[05] Criar interfaces responsivas................[ ACTIVE  ]
+[04] Evoluir em React e Next.js.................[ ACTIVE  ]
+[05] Criar interfaces responsivas...............[ ACTIVE  ]
 [06] Desenvolver projetos para meu portfólio....[ ACTIVE  ]
 [07] Aprender novas tecnologias.................[ ACTIVE  ]
 
@@ -149,6 +148,7 @@ JARVIS > Analisando histórico de contribuições...
 JARVIS > Matriz carregada.
 JARVIS > Snake protocol initialized.
 ```
+<div align="center">
 
 <picture>
   <source
