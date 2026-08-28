@@ -143,7 +143,7 @@ JARVIS:
 
 ## `05 // CONTRIBUTION MATRIX`
 
-<div align="center">
+<text align="center">
  
 ```text
 JARVIS > Analisando histórico de contribuições...
