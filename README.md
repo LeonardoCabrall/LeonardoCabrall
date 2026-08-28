@@ -171,8 +171,6 @@ JARVIS:
 
 <hr>
 
-<h2 align="center">STACK</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -188,34 +186,6 @@ JARVIS:
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=false&border_color=00F7FF&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
 
 <br><br>
-
-### `CONTRIBUTION STREAK`
-
-<img src="https://streak-stats.demolab.com?user=LeonardoCabrall&theme=dark&background=0D1117&border=00F7FF&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=8B949E" />
-
-</div>
-
----
-
-<div align="center">
-
-## ` ACTIVITY MONITOR`
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoCabrall&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=JARVIS%20ACTIVITY%20MONITOR" />
-
-</div>
-
----
-
-<div align="center">
-
-## ` ACHIEVEMENT DATABASE`
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=LeonardoCabrall&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-
-</div>
-
----
 
 <div align="center">
 
