@@ -115,9 +115,17 @@ Atualmente estou aprofundando meus conhecimentos no ecossistema **Front-end**, e
   </a>
 </p>
 
-<a https://github.com/LeonardoCabrall/WebSite-Imobiliaria">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoCabrall&repo=REPO_2&bg_color=0D1117&border_color=00F7FF&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF" />
-</a>
+<p align="center">
+  <a href="https://github.com/LeonardoCabrall/WebSite-Estetica-Automotiva">
+    <img src="https://img.shields.io/badge/Ver%20projeto-WebSite--Imobiliaria-181717?style=for-the-badge&logo=github" alt="WebSite Imobiliaria">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeonardoCabrall/WebSite-Estetica-Automotiva">
+    github.com/LeonardoCabrall/WebSite-Estetica-Automotiva
+  </a>
+</p>
 
 <br>
 
@@ -220,7 +228,7 @@ JARVIS > Snake protocol initialized.
 
 ### `ESTABELECER CONEXÃO`
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/LeonardoCabrall">
   <img src="https://img.shields.io/badge/GitHub-LeonardoCabrall-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
