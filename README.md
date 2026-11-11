@@ -116,7 +116,7 @@ github.com/LeonardoCabrall/WebSite-Estetica-Automotiva
 
 JARVIS:
 > Nenhuma evolução acontece sem execução.
-```
+
 
 ---
 
@@ -150,7 +150,7 @@ JARVIS > Snake protocol initialized.
 </picture>
 
 </div>
-``` 
+ 
 ---
 
 <div align="center">
