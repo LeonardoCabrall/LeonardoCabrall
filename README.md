@@ -18,7 +18,8 @@
 
 ---
 
-
+<div align="center">
+ 
 ## `01 // SOBRE MIM`
 
 ┌──[profile]
