@@ -128,7 +128,7 @@ JARVIS:
 
 <div align="center">
 
-## `05 // CONTRIBUTION MATRIX`
+## `04 // CONTRIBUTION MATRIX`
 
 <pre>
 JARVIS > Analisando histórico de contribuições...
@@ -159,7 +159,7 @@ JARVIS > Snake protocol initialized.
 
 <div align="center">
 
-## `06 // CONNECTION TERMINAL`
+## `05 // CONNECTION TERMINAL`
 
 ### `ESTABELECER CONEXÃO`
 
