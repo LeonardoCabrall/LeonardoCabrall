@@ -23,12 +23,7 @@
 ```text
 ┌──[profile]
 
- Perfil        : Desenvolvedor em evolução
- Especialidade : Desenvolvimento Web
- Foco          : Front-end
- Status        : EVOLUINDO
- Objetivo      : Me tornar um desenvolvedor profissional
- Sistema       : ONLINE
+ WORKANA PROFILE: https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193
 ```
 
 Me chamo Léo, moro em São Paulo e  atualmente sou um desenvolvedor em evolução, focado na criação de **interfaces modernas, responsivas e bem estruturadas**.
@@ -116,18 +111,6 @@ github.com/LeonardoCabrall/WebSite-Estetica-Automotiva
 </div>
 
 ---
-
-## `04 // CURRENT MISSIONS`
-
-```console
-
-[01] Aprimorar HTML semântico...................[ RUNNING ]
-[02] Evoluir minhas habilidades com CSS.........[ RUNNING ]
-[03] Aprofundar conhecimentos em JavaScript.....[ RUNNING ]
-[04] Evoluir em React e Next.js.................[ ACTIVE  ]
-[05] Criar interfaces responsivas...............[ ACTIVE  ]
-[06] Desenvolver projetos para meu portfólio....[ ACTIVE  ]
-[07] Aprender novas tecnologias.................[ ACTIVE  ]
 
 JARVIS:
 > Nenhuma evolução acontece sem execução.
