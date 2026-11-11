@@ -22,8 +22,8 @@
  
 ## `01 // SOBRE MIM`
 
-┌──[profile]
-|_ Workana Profile: <a href="https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193">
+```┌──[profile]
+<a href="https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193">
 https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193
 
 
