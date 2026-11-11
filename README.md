@@ -24,6 +24,9 @@
 ┌──[profile]
 |_ Workana Profile: https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193
 
+<a href="https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193">
+https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193
+
 ```
 
  Me chamo Léo, sou um profissional em início de carreira, motivado e produtivo, na área de desenvolvimento web e serviços digitais, com experiência prática na criação e publicação de sites para empresas, também com experiência em Game Design.
