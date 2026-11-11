@@ -32,6 +32,8 @@ https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193
  
  Tenho grande interesse em tecnologia, aprendizado contínuo. Possuo habilidades de comunicação, trabalho em equipe e atendimento ao cliente, além de experiência voluntária em vendas e suporte a eventos. Busco oportunidades para contribuir com projetos nacionais/internacionais, desenvolver competências profissionais e entregar resultados de qualidade.
 
+
+
 ```
 
 ---
