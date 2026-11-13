@@ -25,9 +25,8 @@
 ┌──[PROFILE's]
 <a href="https://www.workana.com/freelancer/1a6cb365634a8b4c7bedfc57ea3e7193">
 WORKANA
-
 <a href="https://www.linkedin.com/in/leonardo-cabral-37a86b387/">
-https://www.linkedin.com/in/leonardo-cabral-37a86b387/
+LINKEDIN
 
 
 
